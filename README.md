@@ -1,4 +1,4 @@
-# CakePHP + React.js
+# CakePHP + React.js ☀️🌟🌔
 
 ## What this example has
 
